@@ -29,18 +29,18 @@ The dataset contains salary and benefits information for public employees in San
 - **`Year`**: Year of the recorded salary.
 
 ---
-
-## 🔧 How to Run:
-To run the analysis, you'll need the `pandas` library. You can install it using:
-```bash
-pip install pandas
-
 ## 🎓 What You'll Learn:
 - Efficient data filtering using `.loc` and `.iloc` for precise data selection.
 - Aggregations like `mean` and `count` with `.groupby()` for insightful analysis.
 - Techniques to identify anomalies and interpret intriguing patterns in data.
 
 ---
+
+## 🔧 How to Run:
+To run the analysis, you'll need the `pandas` library. You can install it using:
+```bash
+pip install pandas
+
 
 ## 📌 Future Enhancements:
 - Incorporate **visualizations** to represent salary trends and distributions more effectively.
