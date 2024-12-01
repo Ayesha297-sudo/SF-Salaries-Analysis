@@ -35,13 +35,6 @@ The dataset contains salary and benefits information for public employees in San
 - Techniques to identify anomalies and interpret intriguing patterns in data.
 
 ---
-
-## 🔧 How to Run:
-To run the analysis, you'll need the `pandas` library. You can install it using:
-```bash
-pip install pandas
-
-
 ## 📌 Future Enhancements:
 - Incorporate **visualizations** to represent salary trends and distributions more effectively.
 - Leverage advanced pandas methods for deeper insights and more complex queries.
@@ -52,5 +45,13 @@ pip install pandas
 ## 🏆 Contribute:
 - **Found this project helpful?** Fork the repository and give it a star! 🌟  
 - Contributions are welcome to improve the code, add new features, or fix issues. Let's make this project even better together!
+
+  ---
+  
+## 🔧 How to Run:
+To run the analysis, you'll need the `pandas` library. You can install it using:
+```bash
+pip install pandas
+
 
 
